@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "2ch.sc redirector",
+  "version": "0.0.1",
+  "description": "Redirect requests from 2ch.net to 2ch.sc",
+  "background": {
+    "scripts": [
+      "lib/background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "http://*.2ch.net/*"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "2ch.sc redirector",
+  "appid": "kemnnjdldpolfkhclahehedmlgankipc",
+  "source_dir": "src",
+  "pem_file": "2ch-sc-redirector.pem",
+  "crx_file": "output/2ch-sc-redirector.crx",
+  "zip_file": "output/2ch-sc-redirector.zip"
+}
